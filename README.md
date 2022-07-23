@@ -1,4 +1,4 @@
-# haskell-book
+# Haskell Book Problems
 
 My solutions to selected problems in the [Haskell Book][haskell-book].
 
